@@ -149,4 +149,4 @@ N’hésite pas à ouvrir une issue ou une pull request.
 
 ## Licence
 
-MIT © Rundredoff
+MIT © Rundredoffi
