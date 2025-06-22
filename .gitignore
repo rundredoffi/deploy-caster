@@ -1,0 +1,7 @@
+# Ignore logs and OS files recursively
+**/*.log
+**/.DS_Store
+**/Thumbs.db
+
+# Env
+**/.env
